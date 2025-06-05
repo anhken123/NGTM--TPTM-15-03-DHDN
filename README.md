@@ -2,7 +2,7 @@
 # 💧 Đề tài: Cảm Biến Lưu Lượng Nước – Hệ Thống Giám Sát Tự Động với ESP32
 
 📘 **Môn học:** Thành phố Thông minh và Nông nghiệp Thông minh  
-👨‍🎓 **Sinh viên:** Nguyễn Minh Đức – 1571020068  
+👨‍🎓 **Sinh viên:** Hoang Quốc Hanh – 1571020087  
 🏫 **Trường:** Đại học Đại Nam  
 👨‍🏫 **GVHD:** ThS. Trần Đăng Công  
 📅 **Năm:** 2025
